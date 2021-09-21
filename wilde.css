@@ -24,12 +24,12 @@ background-color:black;
 .LADYWINDERMERE:hover{
     color:black;
     filter: blur(1px);
-    text-shadow: 3px 3px;
+    text-shadow: 8px 8px;
 }
 .ROSALIE:hover{
     color:black;
     filter: blur(1px);
-    text-shadow: 3px 3px;
+    text-shadow: 8px 8px;
 }
 .ROSALIE{
     color:blue;
@@ -37,7 +37,7 @@ background-color:black;
 .LORDWINDERMERE:hover{
     color:black;
     filter: blur(1px);
-    text-shadow: 3px 3px;
+    text-shadow: 8px 8px;
 }
 .LORDWINDERMERE{
     color:blueviolet;
