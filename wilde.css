@@ -21,8 +21,23 @@ background-color:black;
 .LADYWINDERMERE{
     color:brown;
 }
+.LADYWINDERMERE:hover{
+    color:black;
+    filter: blur(1px);
+    text-shadow: 3px 3px;
+}
+.ROSALIE:hover{
+    color:black;
+    filter: blur(1px);
+    text-shadow: 3px 3px;
+}
 .ROSALIE{
     color:blue;
+}
+.LORDWINDERMERE:hover{
+    color:black;
+    filter: blur(1px);
+    text-shadow: 3px 3px;
 }
 .LORDWINDERMERE{
     color:blueviolet;
@@ -48,3 +63,4 @@ tr:nth-child(even){
 background-color:lightgray;
 color:black;
 }
+
