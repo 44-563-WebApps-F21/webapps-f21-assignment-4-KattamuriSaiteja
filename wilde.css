@@ -1,0 +1,26 @@
+.speech{
+    font-family:Arial ;
+    font-size:14px;
+    color: black;
+}
+.stage-direction{
+    font-family:Arial ;
+    font-size:16px;
+    color: black;
+    background-color: lightblue;
+}
+.stage-direction:hover{
+    color: orange;
+    background-color: yellow;
+}
+.name{
+font-size: 20px;
+background-color:black;
+}
+
+.LADYWINDERMERE{
+    color:pink;
+}
+.ROSALIE{
+    color:blue;
+}
